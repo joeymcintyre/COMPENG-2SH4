@@ -1,8 +1,8 @@
 # COMPENG-2SH4 – Principles of Programming
-Fundamental concepts of programming languages: data types, assignment, control constructs, basic data structures, iteration, recursion, exceptions; imperative and object-orientated paradigms; composing and testing small programs.
 
 📘 Course Overview: 
-- Introduced C programming with applications to engineering problems. Covered control structures, arrays, strings, pointers, dynamic memory, file I/O, and object-oriented principles in C++. Final project was a Snake Game implemented in C++ with MacUILib.
+
+Fundamental concepts of programming languages: data types, assignment, control constructs, basic data structures, iteration, recursion, exceptions; imperative and object-orientated paradigms; composing and testing small programs.
 
 🔬 Repository Contents:
 - Lab 0 – IDE and GitHub Setup
