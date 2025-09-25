@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2rGsAIMQ)
 # COE2SH4-PPA3Template
 Project Preparation Activity 3
 
@@ -10,3 +9,4 @@ Section: LO4 / CO2
 MacID: mcintj35
 
 StudentID: 400520473
+
