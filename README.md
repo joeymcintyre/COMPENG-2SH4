@@ -10,3 +10,5 @@ Contains:
 - PPA1 – Marquee Display with Asynchronous Input
 - PPA2 – Game Board with Player Movement (FSM)
 - PPA3 – Scavenger Hunt “Guess the Word” Game
+
+NOTE: Final project (C++ snake game) is in its own repository.
