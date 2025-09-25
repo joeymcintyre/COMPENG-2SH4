@@ -12,3 +12,7 @@ Contains:
 - PPA3 – Scavenger Hunt “Guess the Word” Game
 
 NOTE: Final project (C++ snake game) is in its own repository.
+
+Acknowledgements
+- Course: COMPENG 2SH4 – Principles of Programming (Fall 2024)
+- Instructor & TAs for providing skeleton code, MacUILib, and project guidance.
